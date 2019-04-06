@@ -828,7 +828,7 @@ input,textarea{
     color:#fff
 }
 .chat-3bRxxu .newMessagesBar-mujexs{
-    background-image: url("https://i.imgur.com/oUuRryB.png")!important
+    background:var(--primary-color)!important
 }
 .unread-1xRYoj{
     background:var(--primary-color)!important
