@@ -254,7 +254,7 @@ input,textarea{
     border:solid 1px var(--outline-color)!important;
     border-radius:1px
 }
-//test 
+//test
 .userPopout-3XzG_A {
     border-radius: 1px;
     box-shadow: 0 0 0 1px #323232,0 0 0 2px #0a0a0a!important;
@@ -263,7 +263,7 @@ input,textarea{
 	background: var(--channels-color)!important;
 	background: var(--text-input)!important;
 	background: var(--primary-color);
-	
+
 .note-3kmerW textarea {
     border-radius: 0!important;
     background: var(--text-input)!important;
@@ -829,7 +829,7 @@ input,textarea{
     color:#fff
 }
 .chat-3bRxxu .newMessagesBar-mujexs{
-    background:var(--primary-color)!important
+    background-image: url("https://i.imgur.com/9TxYguj.png");!important
 }
 .unread-1xRYoj{
     background:var(--primary-color)!important
