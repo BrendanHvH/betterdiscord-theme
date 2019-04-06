@@ -45,7 +45,7 @@ input,textarea{
     top:6px;
     height:calc(100vh - 12px);
     width:calc(100vw - 12px);
-	background-image: url("https://i.imgur.com/Cp2UvW0.gif");
+	  background-image: url("https://i.imgur.com/Cp2UvW0.gif");
     box-shadow:0 0 0 1px #3c3c3c,0 0 0 4px #282828,0 0 0 5px #3c3c3c,0 0 0 6px #0a0a0a;
     background-color:var(--channels-color)
 }
