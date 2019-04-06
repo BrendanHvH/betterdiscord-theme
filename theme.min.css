@@ -19,7 +19,7 @@
     --channel-radius:5px;
     --text-color:#cbcbcb;
     --text-darker:#b0b0b0;
-    --font:"Verdana",Helvetica,Arial,sans-serif;
+    --font:'Verdana','Helvetica';
     --important-notification-l:#f84747;
     --important-notification:#d12020;
 }
